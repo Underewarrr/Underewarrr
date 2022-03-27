@@ -24,7 +24,7 @@ Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente so
 **Linguagens e ferramentas:**  
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74227915/147275034-1430c4e2-be05-4b0d-a0cb-681513520d49.png" alt="C" width="40" height="40"/> 
+  <!--img src="https://user-images.githubusercontent.com/74227915/147275034-1430c4e2-be05-4b0d-a0cb-681513520d49.png" alt="C" width="40" height="40"/--> 
   <img src="https://user-images.githubusercontent.com/74227915/147274496-f4e6cfa3-f8e8-4e09-a5b8-605b99334c5e.png" alt="Lua" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/74227915/147275328-83058883-f6ff-49d7-9382-3fda3954fc8c.png" alt="C++" width="40" height="40"/> 
 <br>
