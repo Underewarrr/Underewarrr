@@ -11,8 +11,7 @@ Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente so
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando para me tornar um desenvolvedor full stack em web
-- 🤔 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 👨🏽‍💻 Estou estudando para me tornar um desenvolvedor full stack em web 
 - 🤔 Meus hobbies são esportes e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
