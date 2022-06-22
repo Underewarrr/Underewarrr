@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Oi! Me chamo **Rafhael Oliveira**, Estudante de Desenvolvimento Web Full Stack na | Trybe | Turma XP👨🏽‍💻
+Oi! Eu sou **Rafhael Oliveira**, Estudante de Desenvolvimento Web Full Stack na | Trybe | Turma XP👨🏽‍💻
 
 **A escola que te ensina a programar, a aprender e a trabalhar🚀**
 
