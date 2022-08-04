@@ -8,8 +8,7 @@ Contato-Email: Rafhaelxd@gmail.com
 
 <br />
 <br />
-
-Oi! Eu sou **Rafhael Oliveira**, Estudante de Desenvolvimento Web Full Stack na | Trybe | Turma XP👨🏽‍💻
+| Trybe | Turma XP👨🏽‍💻|
 
 Atuo há 2 anos como Desenvolvedor Web e sou ativo em comunidades de programação ([otland](https://otland.net/members/underewar.175624/), [open-tibia](open-tibia.digital)) amo a contribuição que o desenvolvimento de códigos proporciona!
 
