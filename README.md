@@ -1,4 +1,6 @@
-### Olá! 👋 Eu sou [Rafhael](Underewarrr.github.io)!
+### Olá! 👋 Eu sou Rafhael Oliveira, tenho 23 anos e sou de Itajuba, MG.
+
+Contato-Email: Rafhaelxd@gmail.com
 
 <a href="https://www.linkedin.com/in/rafhael-oliveira/">
   <img align="left" alt="Rafhael Oliveira LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,21 +11,16 @@
 
 Oi! Eu sou **Rafhael Oliveira**, Estudante de Desenvolvimento Web Full Stack na | Trybe | Turma XP👨🏽‍💻
 
-**A escola que te ensina a programar, a aprender e a trabalhar🚀**
+Atuo há 2 anos como Desenvolvedor Web e sou ativo em comunidades de programação ([otland](https://otland.net/members/underewar.175624/), [open-tibia](open-tibia.digital)) amo a contribuição que o desenvolvimento de códigos proporciona!
 
+No [fórum](https://tibiaking.com/profile/279074-underewar/) ajudei iniciantes com dúvidas relacionadas a lógica de programação na seção da linagem Lua, nesse período aprendi sobre web servidores com database e compilações em ambiente Linux com Cmake, no mesmo fórum me tornei parte da equipe e passei a ter responsabilidades de ajudar toda a seção de suporte envolvida com tecnologia em geral.
+ 
+Eu nunca parei de ajudar os forums, no entanto, não faço mais parte da equipe.
+Ajudo alguns [projetos](https://github.com/openistibia/) abertos para ajudar a comunidade de maneira mais eficiente, lançando atualizações e organizando atualizações futuras para evitar que bugs sejam implementados.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+Entusiasta em tecnologia e programação, gosto de colocar em prática minhas ideias e explorar caminhos desconhecidos, problemas me motivam para continuar e como pessoa desenvolvedora essa é minha melhor qualidade.
 
-**Alguns interesses pessoais::**
-
-
-- 👨🏽‍💻 Estou estudando para me tornar um desenvolvedor full stack em web 
-- 🤔 Meus hobbies são esportes e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **rafhaelxd@gmail.com** para me encontrar.
-- 
-**Linguagens e ferramentas:** 
+Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnologias novas modulo a módulo, me sinto muito confortável para trabalhar em equipe!
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
