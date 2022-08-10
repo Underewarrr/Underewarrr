@@ -38,4 +38,3 @@ Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnolo
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr" /> </p>
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
