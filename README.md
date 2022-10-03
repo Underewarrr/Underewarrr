@@ -21,6 +21,7 @@ Entusiasta em tecnologia e programação, gosto de colocar em prática minhas id
 
 Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnologias novas modulo a módulo, me sinto muito confortável para trabalhar em equipe!
 
+<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
@@ -45,7 +46,6 @@ Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnolo
 <code><img height="20" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
 
 ![Underewarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
