@@ -46,7 +46,8 @@ Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnolo
 <code><img height="20" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
 
 ![Underewarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
 
