@@ -10,8 +10,6 @@ Contato-Email: Rafhaelxd@gmail.com
 <br />
 | Trybe | Turma XP👨🏽‍💻|
 
-Atuo há 2 anos como Desenvolvedor Web e sou ativo em comunidades de programação ([otland](https://otland.net/members/underewar.175624/) amo a contribuição que o desenvolvimento de códigos proporciona!
-
 No [fórum](https://tibiaking.com/profile/279074-underewar/) ajudei iniciantes com dúvidas relacionadas a lógica de programação na seção da linagem Lua, nesse período aprendi sobre web servidores em php com database e compilações em ambiente Linux com Cmake, no mesmo fórum me tornei parte da equipe e passei a ter responsabilidades de ajudar toda a seção de suporte envolvida com tecnologia em geral.
  
 Eu nunca parei de ajudar os forums, no entanto, não faço mais parte da equipe.
