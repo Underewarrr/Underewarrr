@@ -8,7 +8,7 @@ Contato-Email: Rafhaelxd@gmail.com
 
 <br />
 <br />
-| Trybe | Turma XP👨🏽‍💻|
+| Trybe 💻|
 
 No [fórum](https://tibiaking.com/profile/279074-underewar/) ajudei iniciantes com dúvidas relacionadas a lógica de programação na seção da linagem Lua, nesse período aprendi sobre web servidores em php com database e compilações em ambiente Linux com Cmake, no mesmo fórum me tornei parte da equipe e passei a ter responsabilidades de ajudar toda a seção de suporte envolvida com tecnologia em geral.
  
