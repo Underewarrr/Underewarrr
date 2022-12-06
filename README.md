@@ -19,7 +19,6 @@ Entusiasta em tecnologia e programação, gosto de colocar em prática minhas id
 
 Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnologias novas modulo a módulo, me sinto muito confortável para trabalhar em equipe!
 
-<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
