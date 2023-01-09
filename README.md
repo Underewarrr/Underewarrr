@@ -9,17 +9,12 @@ Contato-Email: Rafhaelxd@gmail.com
 <br />
 <br />
 | Trybe 💻|
+Apaixonado por tecnologia! Estou buscando conhecimento para me tornar um especialista na área de desenvolvimento.
+Adoro contribuir e ajudar em comunidades de tecnologia, sempre busco aprender com projetos pessoais e sempre estou buscando melhorar meus métodos de desenvolver software. 
+Em todas minhas experiências como desenvolvedor a contribuição sempre foi o meu forte.
 
-No [fórum](https://tibiaking.com/profile/279074-underewar/) ajudei iniciantes com dúvidas relacionadas a lógica de programação na seção da linagem Lua, nesse período aprendi sobre web servidores em php com database e compilações em ambiente Linux com Cmake, no mesmo fórum me tornei parte da equipe e passei a ter responsabilidades de ajudar toda a seção de suporte envolvida com tecnologia em geral.
+Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
 
-Não poderia me esquecer da [otland](https://otland.net/members/underewar.175624/) que foi onde tudo começou!
- 
-Eu nunca parei de ajudar os forums, no entanto, não faço mais parte da equipe.
-Ajudo alguns [projetos](https://github.com/openistibia/) abertos para ajudar a comunidade de maneira mais eficiente, lançando atualizações e organizando atualizações futuras para evitar que bugs sejam implementados.
-
-Entusiasta em tecnologia e programação, gosto de colocar em prática minhas ideias e explorar caminhos desconhecidos, problemas me motivam para continuar e como pessoa desenvolvedora essa é minha melhor qualidade.
-
-Em 2022 iniciei na Trybe, onde estou re aprendendo todo dia e conhecendo tecnologias novas modulo a módulo, me sinto muito confortável para trabalhar em equipe!
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
