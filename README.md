@@ -11,8 +11,10 @@ Contato-Email: Rafhaelxd@gmail.com
 | Trybe 💻|
 
 Apaixonado por tecnologia! Estou buscando conhecimento para me tornar um especialista na área de desenvolvimento.
+
 Adoro contribuir e ajudar em comunidades de tecnologia, sempre busco aprender com projetos pessoais e sempre estou buscando melhorar meus métodos de desenvolver software. 
-Em todas minhas experiências como desenvolvedor a contribuição sempre foi o meu forte.
+
+Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi o meu forte.
 
 Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
 
