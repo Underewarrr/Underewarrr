@@ -9,10 +9,13 @@ Contato-Email: Rafhaelxd@gmail.com
 <br />
 <br />
 | Trybe 💻|
+Sou desenvolvedor Full Stack com experiência em desenvolvimento web e infraestrutura.
+Trabalhei em diversos projetos pessoais. Possuo conhecimentos em programação funcional, POO, DevOps.
+Tenho interesse em escalabilidade de aplicações e melhores praticas de desenvolvimento.
 
 Apaixonado por tecnologia! Estou buscando conhecimento para me tornar um especialista na área de desenvolvimento.
 
-Adoro contribuir e ajudar em comunidades de tecnologia, sempre busco aprender com projetos pessoais e sempre estou buscando melhorar meus métodos de desenvolver software. 
+Adoro contribuir e ajudar em comunidades de tecnologia, sempre busco aprender com projetos pessoais e sempre estou buscando melhorar meus métodos de desenvolver software.
 
 Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi o meu forte.
 
