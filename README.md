@@ -46,9 +46,9 @@ Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visu
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 
-![Underewarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
+![Underewarrr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underewarrr&layout=compact&theme=graywhite&title_color=268bd2" alt="Underewarrr" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Underewarrr&layout=compact&theme=graywhite&title_color=268bd2" alt="Underewarrr"/>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr"/> </p>
 
