@@ -21,7 +21,7 @@ Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi
 
 Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
 
-
+  <code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
