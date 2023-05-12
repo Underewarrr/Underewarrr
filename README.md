@@ -1,5 +1,7 @@
 ### Olá! 👋 Eu sou Rafhael Oliveira, tenho 24 anos e sou de Itajuba, MG.
 
+[Meu CV com todos os projetos e links](https://drive.google.com/file/d/1xfGXI72-U7ShGuYIe9IzsG2vlRUrBXVb/view?usp=sharing)
+
 Contato-Email: Rafhaelxd@gmail.com
 
 <a href="https://www.linkedin.com/in/rafhael-oliveira/">
