@@ -25,7 +25,7 @@ Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visu
 
 **Tibiaking.com - Líder de Tecnologia**
 
-Atualmente, sou o líder de tecnologia do projeto de uma grande comunidade chamada [Tibiaking.com](https://tibiaking.com/). Meu papel envolve ajudar a manter e recrutar pessoas, além de organizar os repositórios e desempenhar as tarefas relacionadas. Se você quiser saber mais sobre a organização, confira o [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). Lá você encontrará informações valiosas sobre a evolução da comunidade e os repositórios no GitHub. Junte-se a nós e participe dessa emocionante jornada tecnológica!
+Atualmente como um certo hobby, sou o líder de tecnologia do projeto de uma grande comunidade chamada [Tibiaking.com](https://tibiaking.com/). Meu papel envolve ajudar a manter e recrutar pessoas, além de organizar os repositórios e desempenhar as tarefas relacionadas. Se você quiser saber mais sobre a organização, confira o [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). Lá você encontrará informações valiosas sobre a evolução da comunidade e os repositórios no GitHub. Junte-se a nós e participe dessa emocionante jornada tecnológica!
 
 
   <code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></code>
