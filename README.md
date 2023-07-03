@@ -11,6 +11,11 @@ Contato-Email: Rafhaelxd@gmail.com
 <br />
 <br />
 | Trybe 💻|
+
+### PT-BR
+
+<details>
+
 Sou desenvolvedor Full Stack com experiência em desenvolvimento web e infraestrutura.
 Trabalhei em diversos projetos pessoais. Possuo conhecimentos em programação funcional, POO, DevOps.
 Tenho interesse em escalabilidade de aplicações e melhores praticas de desenvolvimento.
@@ -24,8 +29,25 @@ Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi
 Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
 
 Meu Hobby : [Tibiaking.com](https://tibiaking.com/). Meu papel envolve ajudar a manter e recrutar pessoas, além de organizar os repositórios e desempenhar as tarefas relacionadas. Se você quiser saber mais sobre a organização, confira o [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). Lá você encontrará informações valiosas sobre a evolução da comunidade e os repositórios no GitHub. Junte-se a nós e participe dessa emocionante jornada tecnológica!
+</details>
+
+### PT-BR
+
+<details>
 
 
+I am a Full Stack developer with experience in web development and infrastructure. I have worked on various personal projects and have knowledge in functional programming, OOP, and DevOps. I am interested in application scalability and best development practices.
+
+Passionate about technology! I am seeking knowledge to become an expert in the field of development.
+
+I love contributing and helping in technology communities. I always seek to learn from personal projects and continuously improve my software development methods.
+
+Throughout my experiences as a developer, teamwork has always been my strength.
+
+As a technology enthusiast, I strive to learn new concepts and apply them in practice. I am always learning from mistakes and avoiding them from happening again.
+
+My Hobby:[Tibiaking.com](https://tibiaking.com/). My role involves helping to maintain and recruit people, as well as organizing repositories and performing related tasks. If you want to know more about the organization, check out the [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). There you will find valuable information about the community's evolution and the repositories on GitHub. Join us and be part of this exciting technological journey!
+</details>
   <code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
