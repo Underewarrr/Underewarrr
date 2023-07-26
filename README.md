@@ -1,12 +1,14 @@
 [Meu CV com todos os projetos e links](https://drive.google.com/file/d/1BdIj8RFgzrDb0K6lyUAwDejYrJmn-STh/view?usp=sharing)
+[Meu linkedin](https://www.linkedin.com/in/rafhael-oliveira/)
 
 Contato-Email: Rafhaelxd@gmail.com
+
+<br />
 
 <a href="https://www.linkedin.com/in/rafhael-oliveira/">
   <img align="left" alt="Rafhael Oliveira LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
 <br />
 
 ### PT-BR
