@@ -10,9 +10,7 @@ Contato-Email: Rafhaelxd@gmail.com
   <img align="left" alt="Rafhael Oliveira LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
-
-### PT-BR
+### PT-BR - Rafhael Oliveira
 
 <details>
 
@@ -29,9 +27,10 @@ Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi
 Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
 
 Meu Hobby : [Tibiaking.com](https://tibiaking.com/). Meu papel envolve ajudar a manter e recrutar pessoas, além de organizar os repositórios e desempenhar as tarefas relacionadas. Se você quiser saber mais sobre a organização, confira o [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). Lá você encontrará informações valiosas sobre a evolução da comunidade e os repositórios no GitHub. Junte-se a nós e participe dessa emocionante jornada tecnológica!
+
 </details>
 
-### EN
+### EN  - Rafhael Oliveira
 
 <details>
 
@@ -47,8 +46,59 @@ Throughout my experiences as a developer, teamwork has always been my strength.
 As a technology enthusiast, I strive to learn new concepts and apply them in practice. I am always learning from mistakes and avoiding them from happening again.
 
 My Hobby:[Tibiaking.com](https://tibiaking.com/). My role involves helping to maintain and recruit people, as well as organizing repositories and performing related tasks. If you want to know more about the organization, check out the [fórum](https://tibiaking.com/forums/topic/110837-a-evolu%C3%A7%C3%A3o-da-comunidade-reposit%C3%B3rios-no-github-para-os-t%C3%B3picos-mais-valiosos/?tab=comments#comment-571944). There you will find valuable information about the community's evolution and the repositories on GitHub. Join us and be part of this exciting technological journey!
+
 </details>
-  <code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></code>
+
+### Devops
+
+
+<details>
+
+💻 DevOps | Cloud Services | Experience in AWS, Azure, and Google Cloud 🌐
+solid experience in various cloud platforms. 
+Below are the key services I have experience with:
+
+🚀 AWS:
+- EC2 (Elastic Compute Cloud) for scalable virtual instances.
+- S3 (Simple Storage Service) for data storage and retrieval.
+- EKS (Elastic Kubernetes Service) for managing containerized applications.
+- Route 53 for DNS services and domain registration.
+- VPC (Virtual Private Cloud) for network isolation and security.
+- RDS (Relational Database Service) for relational databases.
+- WAF (Web Application Firewall) for web threat protection.
+- SageMaker for machine learning model development and deployment.
+- CloudFormation for creating and managing infrastructure resources as code.
+- IAM (Identity and Access Management) for access control management.
+- KMS (Key Management Service) for secure key management.
+
+🌟 Azure:
+- Virtual Machines (VMs) for provisioning compute resources.
+- AKS (Azure Kubernetes Service) for container orchestration.
+- DNS (Domain Name System) for name resolution services.
+- Blob Storage for unstructured object storage.
+- Virtual Network for creating isolated private networks.
+- SQL Databases for managing relational databases.
+- Key Vault for storing and managing keys and secrets securely.
+
+🌈 Google Cloud:
+- Compute Engine for provisioning virtual machines.
+- GKE (Google Kubernetes Engine) for container orchestration.
+- Cloud Functions for executing functions in response to events.
+- Storage for object and file storage.
+- Virtual Private Cloud (VPC) for private and secure networks.
+- Cloud DNS for name resolution services.
+- Firebase for developing and hosting web and mobile applications.
+- Deployment Manager for creating and managing cloud resources as code.
+- Cloud Identity for identity and access management.
+- KMS (Key Management Service) for managing encryption keys.
+
+I am excited to contribute and collaborate on projects involving these cloud services. Let's build amazing solutions together! 👨‍💻🚀
+
+</details>
+
+### Stacks
+
+<code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
 <code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
@@ -72,6 +122,9 @@ My Hobby:[Tibiaking.com](https://tibiaking.com/). My role involves helping to ma
 <code><img height="20" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)">
+  
+</code>
 
 ![Underewarrr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
 
