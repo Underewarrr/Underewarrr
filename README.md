@@ -61,7 +61,6 @@ Below are the key services I have experience with:
 🚀 AWS:
 - EC2 (Elastic Compute Cloud) for scalable virtual instances.
 - S3 (Simple Storage Service) for data storage and retrieval.
-- EKS (Elastic Kubernetes Service) for managing containerized applications.
 - Route 53 for DNS services and domain registration.
 - VPC (Virtual Private Cloud) for network isolation and security.
 - RDS (Relational Database Service) for relational databases.
@@ -73,7 +72,6 @@ Below are the key services I have experience with:
 
 🌟 Azure:
 - Virtual Machines (VMs) for provisioning compute resources.
-- AKS (Azure Kubernetes Service) for container orchestration.
 - DNS (Domain Name System) for name resolution services.
 - Blob Storage for unstructured object storage.
 - Virtual Network for creating isolated private networks.
@@ -82,7 +80,6 @@ Below are the key services I have experience with:
 
 🌈 Google Cloud:
 - Compute Engine for provisioning virtual machines.
-- GKE (Google Kubernetes Engine) for container orchestration.
 - Cloud Functions for executing functions in response to events.
 - Storage for object and file storage.
 - Virtual Private Cloud (VPC) for private and secure networks.
