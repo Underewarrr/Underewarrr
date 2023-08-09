@@ -4,8 +4,6 @@
 
 Contato-Email: Rafhaelxd@gmail.com
 
-<br />
-
 <a href="https://www.linkedin.com/in/rafhael-oliveira/">
   <img align="left" alt="Rafhael Oliveira LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -34,7 +32,6 @@ Meu Hobby : [Tibiaking.com](https://tibiaking.com/). Meu papel envolve ajudar a 
 
 <details>
 
-
 I am a Full Stack developer with experience in web development and infrastructure. I have worked on various personal projects and have knowledge in functional programming, OOP, and DevOps. I am interested in application scalability and best development practices.
 
 Passionate about technology! I am seeking knowledge to become an expert in the field of development.
@@ -50,7 +47,6 @@ My Hobby:[Tibiaking.com](https://tibiaking.com/). My role involves helping to ma
 </details>
 
 ### Devops
-
 
 <details>
 
@@ -120,8 +116,6 @@ I am excited to contribute and collaborate on projects involving these cloud ser
 <code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 <code><img height="35" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
-<br>
 ![Underewarrr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Underewarrr&layout=compact&theme=graywhite&title_color=268bd2" alt="Underewarrr"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr"/> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr"/> </p>
