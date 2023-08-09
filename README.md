@@ -121,8 +121,7 @@ I am excited to contribute and collaborate on projects involving these cloud ser
 <code><img height="35" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
 <br>
-
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Underewarrr&layout=compact&theme=graywhite&title_color=268bd2" alt="Underewarrr"/>
 ![Underewarrr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Underewarrr&show_icons=true&count_private=true)
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Underewarrr&layout=compact&theme=graywhite&title_color=268bd2" alt="Underewarrr"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Underewarrr" alt="Underewarrr"/> </p>
 
